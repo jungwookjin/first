@@ -1,6 +1,6 @@
 public class Hello {
 	public static void main(String[] args) {
-		// 로컬에서 작업했습니다.
+		// 로컬에서 다시 수정했습니다.
 		// 원격에서 작업했습니다
 		System.out.println("Hello world");
 		
